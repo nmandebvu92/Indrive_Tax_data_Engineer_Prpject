@@ -1,0 +1,9 @@
+{
+	"name": "indriveDFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1cb7c5b1-630c-4e2c-b639-1d4358236965",
+		"tenantId": "46207011-fd95-4d94-ae8c-15b6e736ed04"
+	}
+}
